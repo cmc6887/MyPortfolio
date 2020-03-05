@@ -616,7 +616,6 @@ input, select, textarea {
 		}
 
 /* Image */
-
 	.image {
 		border-radius: 4px;
 		border: 0;
@@ -1339,8 +1338,8 @@ input, select, textarea {
 					display: block;
 					min-width: 14rem;
 					height: 2.75rem;
-					line-height: 2.75rem;
-					padding: 0 1.25rem 0 1.45rem;
+					line-height: 2.75rem;/*YOOOOO*/
+					/*padding: 0 1.25rem 0 1.45rem;*/
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
@@ -1568,7 +1567,7 @@ input, select, textarea {
 					-ms-flex-direction: column;
 					flex-direction: column;
 					min-width: 10rem;
-					max-width: 100%;
+					max-width: 100%;        
 				}
 
 					#header nav ul li {
@@ -1751,3 +1750,13 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
+
+
+/*Youtube*/
+.youtube iframe{
+    max-width: 73%;
+    max-height: auto;
+    
+}
