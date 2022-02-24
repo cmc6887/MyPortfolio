@@ -7,3 +7,12 @@ function OffHover() {
     document.getElementById('ImageContainer').style.visibility = 'hidden';
 }
                                 
+
+
+function OnHover2(x) {
+    document.getElementById("MapContainer").src = "../images/Valorant/AgentMaps/"+x+"MapRadar.png";
+}
+function OffHover2() {
+    //document.getElementById("MapContainer").src = "../images/Valorant/ValorantMapRadar.png";
+}
+        
