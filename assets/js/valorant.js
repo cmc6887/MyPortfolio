@@ -13,7 +13,13 @@ function OffHover() {
    // }, 5000);
 }
                                 
-
+function openYoutubeOnMobile(url) {
+    // Check if the user is on a mobile device
+    if (/Mobi|Android/i.test(navigator.userAgent)) {
+        // Open the YouTube link
+        window.location.href = url;
+    }
+}
 
 function OnHover2(x) {
     document.getElementById("MapContainer").src = "../images/Valorant/AgentMaps/"+x+"MapRadar.png";
