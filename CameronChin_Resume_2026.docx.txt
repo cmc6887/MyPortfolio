@@ -1,0 +1,74 @@
+﻿CONTACT
+Jersey City, NJ
+cameronchin1997@gmail.com
+camchin.com
+SKILLS
+Design
+•  Product & UX/UI Design
+•  Interaction & Motion Design
+•  Prototyping & Wireframing
+•  Information Architecture
+•  Responsive Design
+•  Accessibility & Inclusive Design
+Tools
+•  Figma, Sketch & Adobe XD
+•  Illustrator, Photoshop & Canva 
+•  Squarespace, Wix  & Wordpress
+•  After Effects, Lottie & Premiere Pro
+Methods
+•  Customer Discovery & Research 
+•  A/B Testing & Data-Driven Design
+•  Analytics Interpretation & Insights
+•  Design Thinking & User Flows
+Development
+•  React Native / TypeScript / JS
+•  HTML / CSS
+•  Firebase / Rendr
+•  Unity / Unreal Engine / C#
+EDUCATION
+Rochester Institute of Technology
+Class of  2021
+BS, Game Design & Development
+
+
+Relevant Coursework:
+•  Interaction, Immersion & Media Interface
+•  Data Structures & Algorithms for Games
+•  Game Design and Development I & II
+•  2D/3D Animation & Asset Production
+•  Website Design & Implementation
+•  Rich Media Web App Development
+•  Interactive Media Development
+•  Software Quality Assurance
+•  Level Design
+•  Production Studio
+
+
+	CAMERON CHIN
+Product Designer
+SUMMARY
+Product designer and builder with 5+ years of experience shipping digital products across gaming, mobile, and web. I’m constantly learning new tools and skills to turn ideas into real products. From running a web design business to independently publishing a full game and even building an online marketplace app, my work moves from concept to launch and is used by real customers.
+EXPERIENCE
+Product Designer  |  Funkitron (Aristocrat Leisure Limited)
+Jan 2019 – Jan 2021
+* Designed gameplay, and onboarding for Cascade, a mobile puzzle game with 1M+ downloads and a 4.7-star rating on Apple and Google Play.
+* Built 50+ levels and multiple tutorials focused on retention, usability, and engagement loops.
+* Improved retention 300%+ by translating playtest data into UX and difficulty tuning decisions.
+* Collaborated with PMs and QA testers in agile sprints to ship over 250 levels.
+Lead Product Designer & Founder  |  Vendr Technologies LLC
+Oct 2023 – Present
+* Built a mobile marketplace app for iOS and Android using React Native and Firebase. Currently in closed beta.
+* Designed every screen, icon, animation, and visual asset using Figma and Adobe Creative Suite.
+* Designed a recommendation algorithm that tailors product suggestions based on user demographics and shopping history.
+* Conducted 600+ customer interviews to understand user needs and guide product decisions.
+* Created all branding, marketing materials, and product websites, and worked closely with a team of 3 engineers to ship the app.
+Founder & Product Designer  |  Cam Chin Design
+Nov 2022 – Present
+* Own and self-operate a web design business that builds websites for local businesses including hotels, restaurants, gyms, and construction companies.
+* Designed 10+ commercial websites and continues to maintain select clients with ongoing SEO and digital marketing.
+* Produced professional photography and drone footage for client websites, social media, and marketing campaigns.
+Game Director & Designer  |  Cardboard Games
+Nov 2021 – Feb 2023
+* Developed Jump the Gun, a self-published indie game with over 50,000 sales on Steam with an 88% "Very Positive" rating.
+* Led a team of 4 from concept to launch, ran live playtests, produced marketing assets, and refined the design based on player feedback.
+* Maintained and improved the game through free post-launch updates based on Steam’s analytics.

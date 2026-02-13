@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.fanduel.careers)",
+      "WebFetch(domain:fanduel.design)",
+      "WebFetch(domain:d17odppiik753x.cloudfront.net)",
+      "WebFetch(domain:brandfetch.com)",
+      "WebFetch(domain:codepen.io)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(powershell -Command:*)",
+      "Bash(cmd /c \"forfiles /P c:\\\\Users\\\\maxdo\\\\OneDrive\\\\Documents\\\\GitHub\\\\MyPortfolio /S /C \"cmd /c if @isdir==FALSE echo @fsize @path\"\")",
+      "Read(//c/**)",
+      "Bash(more:*)",
+      "Bash(powershell:*)",
+      "Bash(wc:*)",
+      "Bash(test:*)",
+      "WebFetch(domain:cdpn.io)",
+      "WebFetch(domain:frontendmasters.com)",
+      "Bash(curl:*)"
+    ]
+  }
+}
